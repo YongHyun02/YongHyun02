@@ -1,7 +1,6 @@
 - 👋 Hi, I’m YongHyun Kim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning : React, Docker, Python
+- 📫 How to reach me : yonghyun6058@gmail.com
 
 <!---
 YongHyun02/YongHyun02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
